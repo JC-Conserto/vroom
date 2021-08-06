@@ -1,0 +1,9 @@
+*.o
+*.d
+bin/
+lib/
+build/
+
+# IDE
+.vscode/
+.idea/
